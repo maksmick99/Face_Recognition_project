@@ -12,3 +12,7 @@ venv/
 
 # Data (keep out of git)
 data/
+
+# Training artifacts
+best_model.pt
+lightning_logs/
